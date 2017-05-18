@@ -1,5 +1,8 @@
 apply plugin: 'com.android.library'
 
+apply plugin: 'com.github.dcendents.android-maven'
+
+group='com.github.kickstartinteractiveandroidteam'
 android {
     compileSdkVersion 'Google Inc.:Google APIs:23'
     buildToolsVersion '25.0.0'
@@ -16,6 +19,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
 }
 
 dependencies {
