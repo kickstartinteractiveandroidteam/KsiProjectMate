@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="fontSizeVeryTiny">40sp</dimen>
+    <dimen name="fontSizeTiny">48sp</dimen>
+    <dimen name="fontSizeTinySmall">56sp</dimen>
+    <dimen name="fontSizeVerySmall">64sp</dimen>
+    <dimen name="fontSizeSmall">72sp</dimen>
+    <dimen name="fontSizeSmallMedium">80sp</dimen>
+    <dimen name="fontSizeMedium">88sp</dimen>
+    <dimen name="fontSizeMediumLarge">96sp</dimen>
+    <dimen name="fontSizeLarge">104sp</dimen>
+    <dimen name="fontSizeXLarge">112sp</dimen>
+    <dimen name="fontSize2XLarge">120sp</dimen>
+    <dimen name="fontSize3XLarge">128sp</dimen>
+    <dimen name="fontSize4XLage">136sp</dimen>
+    <dimen name="fontSize5XLarge">144sp</dimen>
+    <dimen name="fontSize6XLarge">152sp</dimen>
+    <dimen name="fontSize7XLarge">160sp</dimen>
+
+</resources>

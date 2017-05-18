@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <com.wang.avi.AVLoadingIndicatorView
+        android:id="@+id/avloadingIndicatorView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+      android:layout_centerHorizontal="true"
+        app:indicator="BallBeat"
+        app:indicator_color="@color/indicatorColor" />
+    <TextView
+        android:id="@+id/tvLabelDocStage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorGrey"
+        android:layout_margin="5dp"
+        android:text="@string/searchDoctore"
+        android:textColor="@color/colorWhite"
+        android:layout_centerInParent="true"
+        android:padding="6dp"
+        android:layout_below="@+id/avloadingIndicatorView"
+        android:textStyle="bold"
+        android:textSize="17sp"
+        android:layout_centerHorizontal="true"
+        android:visibility="visible"
+        />
+</RelativeLayout>

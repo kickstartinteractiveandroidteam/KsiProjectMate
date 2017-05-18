@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="indicatorColor">#258FFD</color>
+    <color name="colorGrey">#7f7f7f</color>
+
+    <color name="colorGreen">#0099cc</color>
+    <color name="colorWhite">#ffffff</color>
+
+</resources>
